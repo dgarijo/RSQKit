@@ -76,7 +76,7 @@
         \ economic situations, etc.).\n    - User assistance - Degree to which a product\
         \ can be used by people with the widest range of characteristics and capabilities\
         \ to achieve specified goals in a specified context of use.\n    - Self-descriptiveness\
-        \ - Degree to wich a product presents appropriate information, where needed\
+        \ - Degree to which a product presents appropriate information, where needed\
         \ by the user, to make its capabilities and use immediately obvious to the\
         \ user without excessive interactions with a product or other resources (such\
         \ as user documentation, help desks or other users)."
@@ -185,12 +185,3 @@
     source:
         name: ISO/IEC 25010 standard
         url: https://iso25000.com/index.php/en/iso-25000-standards/iso-25010
--   abbreviation: sustainability
-    description: The capacity of the software to endure. In other words, sustainability
-        means that the software will continue to be available in the future, on new
-        platforms, meeting new needs.
-    identifier: https://w3id.org/everse/i/dimensions/sustainability
-    name: Sustainability
-    source:
-        name: Defining Software Sustainability
-        url: https://danielskatzblog.wordpress.com/2016/09/13/defining-software-sustainability/
