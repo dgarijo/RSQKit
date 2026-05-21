@@ -27,8 +27,12 @@
     identifier: https://w3id.org/everse/i/dimensions/community
     name: community
     source:
-        name: 2.5 Community
+    -   name: 2.5 Community
         url: https://github.com/EVERSE-ResearchSoftware/reference-framework/blob/main/source/02-framework/community.md
+    -   name: Producing Open Source Software
+        url: https://producingoss.com/en/index.html
+    -   name: Achieving Quality in Open Source Software
+        url: https://dl.acm.org/doi/10.1109/MS.2007.2
 -   abbreviation: compatibility
     description: 'Degree to which a product, system or component can exchange information
         with other products, systems or components, and/or perform its required functions
